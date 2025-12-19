@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harsh Dhiman</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | Learning Node.js & Express.js | Passionate About Building & Collaborating</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | Passionate About Building & Collaborating</h3>
 
 - 🌱 I’m currently learning **Backend (MERN Stack)**
 
